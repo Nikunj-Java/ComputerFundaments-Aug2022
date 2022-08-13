@@ -387,7 +387,9 @@ Primary Drive is C: , You can aslo divide into D:,E:,F: drive etc.....
 	
 				EEPROM 					ROM
 
----------------------------------------------------------------------------------------------------------------		a. it is programmable ROM can be erased and 	| a. it is READ ONLY MEMORY that can be modified only 
+---------------------------------------------------------------------------------------------------------------
+	
+	a. it is programmable ROM can be erased and 	| a. it is READ ONLY MEMORY that can be modified only 
 	   reused					|     by users
 	b. it stands for Programmable Read Only Memory  | b. stands for  Erasable Read Only Memory
 	c. it was developed in somewhere 1950s		| c. it was developed in 1970s
