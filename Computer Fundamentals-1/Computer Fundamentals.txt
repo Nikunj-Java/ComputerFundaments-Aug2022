@@ -403,3 +403,50 @@ Primary Drive is C: , You can aslo divide into D:,E:,F: drive etc.....
 - it is an electronic power supply which incorporates a switching regulator to convert electrical power effectively.
 - SMPS: transfer power from AC to DC or DC to AC
 ***************************************************************************************************************
+
+[D] USB (UNNIVERSAL SERIAL BUS)
+
+***************************************************************************************************************
+
+- There are different types of USB ports used to connect the peripheral device to the computer
+
+
+1. USB 1.x :	- It has capacity to transfer a data with a speed of 12MB/Seconds(12mbps)
+2. USB 2.0 :	- It is high speed USB
+	    	- it was introduces in 2000
+	    	- it is an upgraded version of USB 1.1
+	    	- it has a capacity to transfer a data with a speed of 480mb/seconds (480mbps)
+	    	- but practically it is 280mbps
+	    	- it can consume 500mA of current
+	    	- Max length : 5 meter
+3. USB 3.0 : 	- its a super speed USB
+		- it was discovered in 2009
+		- it is much more improved version of USB 2.0
+		- it supports data transfer of 5GB/Seconds (5gbps)
+		- it can consume 900mA of current
+		- Max Length: 3 meter
+
+4. USB 3.1 : Also known as SUperSpeed+
+		- it was introduced in 2013
+		- it is the latest version of USB protocol
+		- it has great speedof data transfer of 10GB/seconds (10gbps).
+		- it can consume 900mA of current
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
