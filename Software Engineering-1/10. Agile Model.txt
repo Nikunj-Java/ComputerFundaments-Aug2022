@@ -1,0 +1,29 @@
+*************************************************************************************************
+WHAT IS SCRUM IN AGILE?
+*************************************************************************************************
+
+- SCRUM in an agile developement process focused in ways to manage task in team based developement conditions
+- there are three roles in it and their resposibilities are:
+	1. SCRUM MASTER:
+	-------------------
+		- the srcum master can set up master team, arrange th meetings and remove the obstacles for the process
+		- scrum masters are the falicitator of scrum , the light weight agile framework with a focus of time-boxed iteration called 'SPRINT'
+		- the scrum master is SERVENT LEADER as the scrum guids puts it.
+		- good scrum master are committed to the scrum foundation
+		- but remian flexible and open to opportunities for the team to improve their workflow
+
+		ROLES AND RESPONSIBILITIES:
+		---------------------------
+		a. STANDUPS: falicitate daily (for daily scrum) meetings are needed for 10-15 min
+		b. SPRINT PLANNING:Protect the team for over commiting and scope creep
+		c. SPRINT REVIEW:participate in meeting and capture the feedback
+		d. SPRINT RETROSPECTIVE:notes the areas of improvements and action items for future supports
+		e. BOARD ADMINISTRATION:work as am administrator of the srcum board. ensure that the card(Sticky Notes) are uptodate and use SCRUM TOOL-ATLASIAN JIRA SOFTWARE
+		f. ONE-TO-ONE: Meets individually with team mebers and stackholders as needed 
+		
+		
+	2. PRODUCT OWNER:
+	-------------------
+
+	3. SCRUM TEAM:
+	-------------------
