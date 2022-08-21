@@ -24,6 +24,62 @@ WHAT IS SCRUM IN AGILE?
 		
 	2. PRODUCT OWNER:
 	-------------------
+		- product owner makes product backlogs, prioritizing the delay is responsible for distribution of functionalityon each repetation
+		ROLES  AND RESPONSIBILITY:
+		--------------------------
+		a. manage product backlogs
+		b. prioterize and order the product backlog in the right manner  so that the important task are given topmost priority
+		c. prioterise work itemsand product backlog, this must be done inline with customer's vision and golas
+		d. product owner ensures that product backlogs are communicated clearly in allteam members 
+		e. the scrum team must have clarity on product requirement and user expectations
+		f. must have leadership and communication skills
+		g. maximise the value of product(product prepared in shorttime)
+		h. Effective Interpretation of customer's requirement is done by product owner
+		i. must act as Primary point of contant
+		j. Communicating Customer vision to the team
+		k. Must have market industry Experience so that a product owner can anticipate customer's needs.
+		l. Evaluation progress - Must monitor each phase of developement cycle and can suggest the changes if needed. 
+			
 
 	3. SCRUM TEAM:
 	-------------------
+
+		- the team manages its work and organise the work to complete the sprint or cycle
+		- SCRUM TEAM is also known as DEVELOPMENT TEAM
+		- it is always small(3-6 team members)
+		- it is consisting of skilled and professional who do the hands onwork of completing the task in scrum sprint
+		- this means that develeopment team mebers can be engineer, designer ,writters,anlysts or any other role needed to reach sprint
+		- this team doesn't wait for orders; they usually coloborates to map out goalsand plansfor achieving them
+		- not all team members will always have same skills and responsibilities
+		- for eg: if you aare updating a website you might have a front -end enginner, UX Designer, CopyWritter and Marketing Expert or Professional and all working on the same scrum team
+		- the rsponsibilty of development team will also depends upon the goals of scrum team 
+
+***************************************************************************************************************
+				DIFFERENCE BETWEEN SCRUM MASTER AND PRODUCT OWNER
+***************************************************************************************************************
+			SCRUM MASTER			|		PRODUCT OWNER
+---------------------------------------------------------------------------------------------------------------
+A. scrum master is an expert in agile practise		| A. product owner is around the project
+B. scrum master ensures all messages and 		| B. product owner supports the team with updates and
+	communication was done in rught manner		|    new change if required.
+---------------------------------------------------------------------------------------------------------------
+
+
+WHEN TO USE AGILE MODEL?
+------------------------
+
+- WHEN FREQUENT CHNAGES ARE REQUIRED
+- WHEN HIGHLY QUALIFIED AND EXPERINECED TEAM IS AVAILABLE
+- WHENCUSTOMER IS READY TO HAVE A MEETING WITH SOFTWARE TEAM ALL THE TIME
+
+
+DISADVANTAGES:
+------------------------
+- Due to the lack of formal documentation,it creats confusion and crucial decision taken throughout various phases can be missinterpreted at any time by different team members
+- onece the project is completed and developer alloted to another project, maintanance of the finished project can become difficult task.
+ 
+
+
+
+
+
